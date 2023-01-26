@@ -1,5 +1,5 @@
 # Swerve Developement 2023
-Our developement workspace for our 2023 swerve drive
+Our development workspace for our 2023 swerve drive
 
 ## Configurations
 - Works with MK4 L2 modules running on __NEO brushless motors__, __Spark Max motor controllers__, __CTRE CANCoders__, and the __NavX 2__
